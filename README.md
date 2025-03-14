@@ -33,8 +33,8 @@ ResReqAPI/
 ## 🚀 Установка
 
 ```bash
-git clone https://github.com/your-name/reqres-api-tests.git
-cd reqres-api-tests
+git clone https://github.com/Otto-debug/reqres-api-tests.git
+cd ReqResAPI
 python -m venv venv
 source venv/bin/activate  # или venv\Scripts\activate на Windows
 pip install -r requirements.txt

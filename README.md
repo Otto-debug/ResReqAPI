@@ -114,3 +114,4 @@ allure serve reports/allure-results
 ## 🧑‍💻 Автор
 
 Griffith/Otto-Debug — тестировщик и разработчик ❤️# ResReqAPI
+# ResReqAPI
